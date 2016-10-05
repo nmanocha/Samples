@@ -1,10 +1,1 @@
-# QuickReport
-
-##Warning when pushing this content to AGOL
-When copying the contents of this repo to AGOL be sure to NOT include the follow files and folders:
- - .git
- - .gitignore
- - .info.json
- - README.md
- 
-The presense of these git files will cause any app built upon this template, to NOT BUILD EXECUTABLES.
+This is an enhanced version of QuickReport template which allows end users to attach multiple photos to the existing template within AppStudio for ArcGIS.
